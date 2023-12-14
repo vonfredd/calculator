@@ -1,0 +1,26 @@
+html{
+    padding: 0px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
+.topRow,
+.midRow,
+.lowRow,
+.botRow{
+    display: flex;
+}
+
+input{
+    width: 192px;
+    height: 50px;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+}
